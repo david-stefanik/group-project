@@ -45,7 +45,7 @@ main h2 {
     background-color:lightgray;
 }
 
-.my-bio {
-    background-color: green;
-    color: white;
+.my-bio {<h1>"hello this is stink"</h1>
+    background-color: rgb(4, 0, 0);
+    color: rgb(225, 9, 9);
 }
